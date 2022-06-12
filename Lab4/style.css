@@ -16,10 +16,9 @@
     filter: brightness(85%);
   }
   
-  /* HEADER STYLES */
   
   header {
-    background-image: url(resort-header.jpeg);
+    background-image: url(https://tanyanyanya.github.io/WEB-FE-technologies/Lab4/imgs/resort-header.jpeg);
     background-size: cover;
     width: 100%;
   }
@@ -214,7 +213,7 @@
   
   #content #video {
     width: 100%;
-    background-image: url(video_cover.jpg);
+    background-image: url(https://tanyanyanya.github.io/WEB-FE-technologies/Lab4/imgs/video_cover.jpg); 
     background-size: cover;
   }
   
