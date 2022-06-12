@@ -18,7 +18,7 @@
   
   
   header {
-    background-image: url(https://www.falstaff-travel.com/wp-content/uploads/2022/03/All-inclusive-luxury-header.001.jpeg);
+    background-image: url(https://khilchuk-ol.github.io/web-fe-labs/lab4/imgs/resort-header.jpeg);
     background-size: cover;
     width: 100%;
   }
@@ -213,7 +213,7 @@
   
   #content #video {
     width: 100%;
-    background-image: url(https://www.falstaff-travel.com/wp-content/uploads/2022/03/All-inclusive-luxury-header.001.jpeg); 
+    background-image: url(https://khilchuk-ol.github.io/web-fe-labs/lab4/imgs/resort-header.jpeg); 
     background-size: cover;
   }
   
