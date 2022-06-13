@@ -48,7 +48,7 @@ const addBtnClickListeners = () => {
   document.getElementById("add-btn").addEventListener("click", (e) => {
     const imgElem = document.createElement("img");
     imgElem.id = imgElemId;
-    imgElem.src = "./lviv.jpeg";
+    imgElem.src = "./lviv.jpg";
 
     const wrappedImg = document.createElement("div");
     wrappedImg.id = imgWrapperElemId;
